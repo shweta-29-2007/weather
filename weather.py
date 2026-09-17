@@ -1,4 +1,5 @@
 degree=(int(input("enter the degree: "))
+        print("the degree is:",degree)
         if degree <=20:
         
             print("cold wheather.")
